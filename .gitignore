@@ -3,3 +3,7 @@
 ################################################################################
 
 /slnModenFactory/.vs
+/slnModenFactory/ModelFactory.ServicesApi/bin/Debug/
+/slnModenFactory/ModelFactory.ServicesApi/obj/
+/slnModenFactory/obj/*.*
+/slnModenFactory/obj/Docker

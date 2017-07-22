@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  modelfactory.servicesapi:
+    image: modelfactory.servicesapi
+    build:
+      context: ./ModelFactory.ServicesApi
+      dockerfile: Dockerfile
